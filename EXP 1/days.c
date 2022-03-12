@@ -1,3 +1,5 @@
+/*Write a C program to convert days into year, month and days.*/
+
 #include<stdio.h>
 
 void main()
