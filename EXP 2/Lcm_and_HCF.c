@@ -1,3 +1,5 @@
+/*Take two numbers as input and calculate their LCM and GCD (HCF).*/
+
 #include <stdio.h>
 
 void main()
