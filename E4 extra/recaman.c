@@ -1,3 +1,9 @@
+/*There are at least two sequences attributed to B. Recamán. One is the sequence a_n formed by taking a_1=1 and letting
+
+a(n) = a(n-1) -n ; if an-1 -n>0 and new i.e is not already in the series.
+a(n) = a(n-1) +n ; otherwise
+a is a function.*/
+
 // please enter value of A till 10 or 11 only.
 #include <stdio.h>
 
