@@ -1,3 +1,6 @@
+/*Twin primes are consecutive odd numbers both of which are prime numbers.
+Write a program which inputs two positive integers A and B and outputs all twin primes in range A to B.*/
+
 #include <stdio.h>
 
 int check(int x);
