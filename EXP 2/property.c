@@ -1,3 +1,7 @@
+/* Note that 12*42 = 21*24 and 12*63 = 21*36 and 12*84 = 21*48 and so on. 
+There is a property that (10a+b)*(10c+d) =(10b+a)(10d+c) where a and b are unequal and c and d are also unequal. 
+Write a program which outputs them all between 10 to 99.*/
+
 #include <stdio.h>
 
 int main()
