@@ -1,3 +1,7 @@
+/* Write a function which takes as parameters two positive integers and returns TRUE if the numbers are amicable and FALSE otherwise.
+A pair of numbers is said to be amicable if the sum of divisors of each of the numbers (excluding the no. itself) is equal to the other number.
+Ex. 1184 and 1210 are amicable. */
+
 #include <stdio.h>
 
 int divide(int x);
