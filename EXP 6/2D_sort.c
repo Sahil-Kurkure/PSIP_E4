@@ -1,3 +1,6 @@
+/*)Write a  program which sorts the contents of a 2D array so that they are in ascending order when the array is scanned row by row, left to right. 
+Your program should not use any storage for additional arrays*/
+
 #include <stdio.h>
 
 int main()
