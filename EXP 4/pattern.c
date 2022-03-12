@@ -1,3 +1,8 @@
+/*Given a number n, print following a pattern without using any loop.
+Example:
+Input: n = 16
+Output: 16, 11, 6, 1, -4, 1, 6, 11, 16 */
+
 #include <stdio.h>
 
 void pattern(int x,int y,int z);
