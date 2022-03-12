@@ -1,3 +1,5 @@
+/* Write a program to perform matrix multiplication, Transpose of Matrix. Dimensions of matrices will be decided by user*/
+
 #include <stdio.h>
 
 int generator(int M[10][10],int Ro,int Co);
