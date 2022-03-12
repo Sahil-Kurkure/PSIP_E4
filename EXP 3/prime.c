@@ -1,3 +1,5 @@
+/*Write a function which takes a range as input. Print all the numbers in the range with ‘*’ in front of prime numbers only.*/
+
 #include <stdio.h>
 
 int check(int x);
