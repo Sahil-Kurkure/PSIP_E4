@@ -1,3 +1,11 @@
+/* Ackerman’s function is defined by:
+A(m,n) = n+1 ; if m=0
+A(m,n) = A(m-1,1) ; if m>0 and n=0
+A(m,n) = A(m-1, A(m,n-1)) ; if m>0 and n>0
+
+Write a function which given m and n returns A(m,n). Tabulate the values of A(m,n) for all
+m in the range 1 to 3 and all n in the range 1 to 10.*/
+
 #include <stdio.h>
 
 int func(int m,int n);
