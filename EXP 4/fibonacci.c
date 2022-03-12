@@ -1,3 +1,5 @@
+/* Write a recursive function which returns the nth term of the fibonacci series. Call it from main() to find the 1st n numbers of the fibonacci serie*/
+
 #include <stdio.h>
 
 int fib(int x);
