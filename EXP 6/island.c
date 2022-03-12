@@ -1,3 +1,7 @@
+/*Write a program which, given the shape of an island as the coordinates of a series of connected points on its coastline, 
+determines whether an arbitrary point is in the sea or on land.
+Assume that the island is a polygon.*/
+
 #include <stdio.h>
 
 int main()
