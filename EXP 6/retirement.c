@@ -1,3 +1,6 @@
+/*Write a program which reads the current year followed by a list of N employee numbers and their current ages. 
+Produce a list showing the years in which the employees retire (become 65 years old). */
+
 #include <stdio.h>
 
 int main()
