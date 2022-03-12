@@ -1,3 +1,13 @@
+/* Given a room of area L x B. You have infinite number of tiles of size 2n x 2n , where n = 0, 1,2,... so on. 
+The task is to find the minimum number of square tiles required to fill the given area with tiles.
+
+Examples:
+Input : L = 5, B = 6.
+Output : 9
+
+Area of 5 X 6 can be covered with minimum 9 tiles.
+6 tiles of 1 X 1, 2 tiles of 2 X 2, 1 tile of 4 X 4.*/
+
 #include <stdio.h>
 
 int tiles(int x,int y);
