@@ -1,3 +1,5 @@
+/*Write a program to convert a decimal number to binary or convert a binary number to decimal*/
+
 #include <stdio.h>
 
 void main()
