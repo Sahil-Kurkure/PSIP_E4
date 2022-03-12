@@ -1,3 +1,5 @@
+/*Write a C program to input 2 numbers. Perform addition, subtraction, multiplication, division and modulus and display output.*/
+
 #include <stdio.h>
 
 void main()
